@@ -1,21 +1,124 @@
-MIT License
+# LICENSE
 
-Copyright (c) 2022 Sébastien Chopin
+## Part 1. MIT License (for the website engine)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+MIT License  
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Copyright (c) 2022 Sébastien Chopin  
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Permission is hereby granted, free of charge, to any person obtaining a copy  
+of this software and associated documentation files (the "Software"), to deal  
+in the Software without restriction, including without limitation the rights  
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
+copies of the Software, and to permit persons to whom the Software is  
+furnished to do so, subject to the following conditions:  
+
+The above copyright notice and this permission notice shall be included in all  
+copies or substantial portions of the Software.  
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  
+SOFTWARE.  
+
+---
+
+## Часть 1. Лицензия MIT (для движка сайта)
+
+MIT Лицензия  
+
+Авторские права (c) 2022 Sébastien Chopin  
+
+Настоящим предоставляется бесплатное разрешение любому лицу, получающему копию  
+данного программного обеспечения и сопутствующей документации ("Программное  
+обеспечение"), без ограничений на использование, включая, без ограничения, права  
+на использование, копирование, модификацию, слияние, публикацию, распространение,  
+сублицензирование и/или продажу копий Программного обеспечения, а также лицам,  
+которым предоставляется данное Программное обеспечение, при соблюдении следующих  
+условий:  
+
+Указанное выше уведомление об авторском праве и данное разрешение должны быть  
+включены во все копии или существенные части Программного обеспечения.  
+
+ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ ПРЕДОСТАВЛЯЕТСЯ «КАК ЕСТЬ», БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ, ЯВНЫХ  
+ИЛИ ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ, ПОМИМО ПРОЧЕГО, ГАРАНТИИ ТОВАРНОЙ ПРИГОДНОСТИ,  
+СООТВЕТСТВИЯ ОПРЕДЕЛЁННОМУ НАЗНАЧЕНИЮ И НЕНАРУШЕНИЯ ПРАВ. НИ В КОЕМ СЛУЧАЕ  
+АВТОРЫ ИЛИ ПРАВООБЛАДАТЕЛИ НЕ НЕСУТ ОТВЕТСТВЕННОСТИ ПО КАКИМ-ЛИБО ИСКАМ, УБЫТКАМ  
+ИЛИ ИНОЙ ОТВЕТСТВЕННОСТИ, БУДЬ ТО ПО ДОГОВОРУ, ДЕЛИКТУ ИЛИ ИНЫМ ОБРАЗОМ,  
+ВОЗНИКШЕЙ ИЗ, ИЗ-ЗА ИЛИ В СВЯЗИ С ПРОГРАММНЫМ ОБЕСПЕЧЕНИЕМ ИЛИ ИСПОЛЬЗОВАНИЕМ  
+ИЛИ ИНЫМИ ДЕЙСТВИЯМИ С ПРОГРАММНЫМ ОБЕСПЕЧЕНИЕМ.  
+
+---
+
+## Part 2. MIT License (for the legal texts of the offer)
+
+MIT License  
+
+Copyright (c) 2025 Илья Николаевич Клишин  
+
+Permission is hereby granted, free of charge, to any person obtaining a copy  
+of these legal texts and associated documentation files (the "Legal Work"),  
+to deal in the Legal Work without restriction, including without limitation the  
+rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
+copies of the Legal Work, and to permit persons to whom the Legal Work is  
+furnished to do so, subject to the following conditions:  
+
+The above copyright notice and this permission notice shall be included in all  
+copies or substantial portions of the Legal Work.  
+
+THE LEGAL WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS  
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR  
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER  
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION  
+WITH THE LEGAL WORK OR THE USE OR OTHER DEALINGS IN THE LEGAL WORK.  
+
+---
+
+## Часть 2. Лицензия MIT (для юридических текстов оферты)
+
+MIT Лицензия  
+
+Авторские права (c) 2025 Илья Николаевич Клишин  
+
+Настоящим бесплатно предоставляется право любому лицу, получающему копию данных  
+юридических текстов и сопутствующей документации ("Юридическая работа"),  
+использовать Юридическую работу без ограничений, включая, но не ограничиваясь правами  
+на использование, копирование, модификацию, слияние, публикацию, распространение,  
+сублицензирование и/или продажу копий Юридической работы, а также предоставление  
+Юридической работы другим лицам, при соблюдении следующих условий:  
+
+Указанное выше уведомление об авторском праве и данное разрешение должны быть  
+включены во все копии или существенные части Юридической работы.  
+
+ЮРИДИЧЕСКАЯ РАБОТА ПРЕДОСТАВЛЯЕТСЯ «КАК ЕСТЬ», БЕЗ ВСЯКИХ ГАРАНТИЙ, ЯВНЫХ ИЛИ  
+ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ, ПОМИМО ПРОЧЕГО, ГАРАНТИИ КОММЕРЧЕСКОЙ ЦЕННОСТИ,  
+ПРИГОДНОСТИ ДЛЯ КОНКРЕТНОЙ ЦЕЛИ И НЕНАРУШЕНИЯ ПРАВ. НИ В КАКОМ СЛУЧАЕ АВТОРЫ И/ИЛИ  
+ПРАВООБЛАДАТЕЛИ НЕ НЕСУТ ОТВЕТСТВЕННОСТИ ПО КАКИМ‑ЛИБО ИСКАМ, УБЫТКАМ ИЛИ ИНОЙ  
+ОТВЕТСТВЕННОСТИ, ПО ДОГОВОРУ, ДЕЛИКТУ ИЛИ ИНЫМ ОБРАЗОМ, ВОЗНИКШЕЙ ИЗ, ИЗ‑ЗА ИЛИ  
+В СВЯЗИ С ЮРИДИЧЕСКОЙ РАБОТОЙ ИЛИ ЕЁ ИСПОЛЬЗОВАНИЕМ.  
+
+---
+
+## Part 3. Clarification
+
+The MIT License mentioned above applies strictly to:  
+- the website engine (Nuxt framework and associated code, see Part 1),  
+- the legal text of this public offer (see Part 2).  
+
+**The MIT License does NOT apply to the film idea itself, its content, synopses, images, characters, or any derivative works.**  
+All such content is governed strictly by the terms of the License Agreement-Offer ("Оферта") of the project «Фильм Черноград».  
+
+---
+
+## Часть 3. Разъяснение
+
+Лицензия MIT, указанная выше, распространяется исключительно на:  
+- движок сайта (Nuxt и связанный код, см. Часть 1),  
+- текст лицензионной оферты и сопутствующих юридических документов (см. Часть 2).  
+
+**Лицензия MIT НЕ распространяется на саму идею фильма, его Контент, синопсис, эскизы, персонажей или производные от них работы.**  
+Все указанные материалы подпадают под действие исключительно лицензионного договора-оферты («Оферты») проекта «Фильм Черноград».  
