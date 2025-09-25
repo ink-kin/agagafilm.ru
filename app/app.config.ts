@@ -2,7 +2,7 @@ export default defineAppConfig({
   cover: '/about11-12-09.jpg',
   socials: {
     link: 'https://t.me/agagafilm',
-    github: 'ink-kin/content-wind-gagarinov',
+    github: 'https://github.com/ink-kin/agagafilm.ru',
   },
   icon: {
     aliases: {
